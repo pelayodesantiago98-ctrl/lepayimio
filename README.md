@@ -75,6 +75,8 @@ este dispositivo» para que la sesión dure 30 días en vez de 12 horas.
 
 ![Pantalla de entrada](capturas/login.png)
 
+**Repositorio: [lepayimio-portal](https://github.com/Lepayimio/lepayimio-portal)**
+
 Una vez dentro, el portal es un escritorio al estilo de un móvil: reloj, el
 tiempo del día y los iconos de cada servicio. Los iconos y el fondo se pueden
 personalizar.
@@ -91,12 +93,16 @@ personalizar.
 
 ### L-notes · notas
 
+**Repositorio: [l-notes](https://github.com/Lepayimio/l-notes)**
+
 `l-notes.lepayimio.es` — bóveda de notas en Markdown con carpetas, búsqueda e
 importación de bóvedas enteras. Hecha con Django.
 
 ![L-notes](capturas/l-notes.png)
 
 ### L-games · emuladores
+
+**Repositorio: [l-games](https://github.com/Lepayimio/l-games)**
 
 `l-games.lepayimio.es` — consolas retro en el navegador sobre EmulatorJS:
 de NES a PlayStation pasando por Game Boy Advance o Mega Drive. Las partidas
@@ -108,6 +114,8 @@ se guardan por usuario, así que puedes empezar en el PC y seguir en el móvil.
 
 ### L-tcg · cartas Pokémon
 
+**Repositorio: [L-tcg](https://github.com/Lepayimio/L-tcg)**
+
 `l-tcg.lepayimio.es` — colección de cartas Pokémon con álbumes visuales,
 enciclopedia de expansiones (también japonesas y chinas), lista de deseos y
 amigos para comparar colecciones.
@@ -115,6 +123,8 @@ amigos para comparar colecciones.
 ![L-tcg](capturas/l-tcg.png)
 
 ### RandomFact · un dato al día
+
+**Repositorio: [randomfact (privado)](https://github.com/pelayodesantiago98-ctrl/randomfact)**
 
 `randomfact.lepayimio.es` — cada día, una curiosidad nueva sacada de
 Wikipedia, museos con colecciones abiertas e iNaturalist, con imagen y el
@@ -124,6 +134,8 @@ artículo completo para leerlo sin salir. Lleva la cuenta de días seguidos.
 
 ### Recetas
 
+**Repositorio: [l-recetas](https://github.com/Lepayimio/l-recetas)**
+
 `l-recetas.lepayimio.es` — el recetario de casa, con búsqueda por nombre o
 por ingrediente.
 
@@ -131,11 +143,15 @@ por ingrediente.
 
 ### To do List
 
+**Repositorio: [l-list (privado)](https://github.com/Lepayimio/l-list)**
+
 `l-list.lepayimio.es` — listas de tareas con casillas, y un menú de la semana.
 
 ![To do List](capturas/l-list.png)
 
 ### GyMarks · gimnasio
+
+**Repositorio: [l-gym](https://github.com/Lepayimio/l-gym)**
 
 `l-gym.lepayimio.es` — apunta rutinas por día y grupo muscular y mira cómo
 progresas con el tiempo.
@@ -143,6 +159,8 @@ progresas con el tiempo.
 ![GyMarks](capturas/l-gym.png)
 
 ### L-archivos y L-films · subida y películas
+
+**Repositorios: [l-archivos](https://github.com/Lepayimio/l-archivos) · [l-films](https://github.com/Lepayimio/l-films)**
 
 `l-archivos.lepayimio.es` — buzón para subir películas, series, imágenes,
 vídeos y documentos. Las películas y series se nombran solas a partir del
@@ -153,6 +171,8 @@ desde cualquier sitio.
 
 ### Descargas · L-torrents
 
+**Repositorio: [l-torrents](https://github.com/Lepayimio/l-torrents)**
+
 `l-torrents.lepayimio.es` — catálogo de descargas: busca en un indexador,
 manda la descarga al cliente de torrents y deja el resultado directamente en
 L-films.
@@ -161,6 +181,8 @@ L-films.
 
 ### PomboMail · correo del dominio
 
+**Repositorio: [pombomail (privado)](https://github.com/Lepayimio/pombomail)**
+
 `pombomail.lepayimio.es` — para enviar correo como `@lepayimio.es` y ver lo
 enviado. Como cualquiera que entre podría escribir en nombre del dominio,
 **solo la abre el dueño**; el resto ve esto:
@@ -168,6 +190,8 @@ enviado. Como cualquiera que entre podría escribir en nombre del dominio,
 ![PomboMail](capturas/pombomail.png)
 
 ### Asistente · Waddle Pi
+
+**Repositorio: [asistente (privado)](https://github.com/Lepayimio/asistente)**
 
 `asistente.lepayimio.es` — el cerebro de un asistente de bolsillo. Un
 dispositivo con pantalla redonda (ESP32-S3) se conecta por WebSocket, manda la
@@ -181,9 +205,9 @@ web es la misma cara que lleva el dispositivo.
 
 ## Otros proyectos
 
-- **Samuel Armas Tattoo** (`samuelarmastatto.lepayimio.es`) — web y agenda de
+- **Samuel Armas Tattoo** ([samuelarmastatto](https://github.com/Lepayimio/samuelarmastatto), privado) — web y agenda de
   citas para un tatuador.
-- **L-shorts** — fábrica de vídeos cortos: guion → voz → imágenes → vídeo.
+- **L-shorts** ([l-shorts](https://github.com/Lepayimio/l-shorts), privado) — fábrica de vídeos cortos: guion → voz → imágenes → vídeo.
 
 ---
 
@@ -200,10 +224,10 @@ web es la misma cara que lleva el dispositivo.
 | L-archivos | [l-archivos](https://github.com/Lepayimio/l-archivos) | público |
 | L-films (buzón) | [l-films](https://github.com/Lepayimio/l-films) | público |
 | Descargas | [l-torrents](https://github.com/Lepayimio/l-torrents) | público |
-| To do List | l-list | privado |
-| PomboMail | pombomail | privado |
-| Asistente | asistente | privado |
-| Samuel Armas | samuelarmastatto | privado |
-| L-shorts | l-shorts | privado |
-| RandomFact | randomfact | privado |
-| Infraestructura | lepayimio-infra | privado |
+| To do List | [l-list](https://github.com/Lepayimio/l-list) | privado |
+| PomboMail | [pombomail](https://github.com/Lepayimio/pombomail) | privado |
+| Asistente | [asistente](https://github.com/Lepayimio/asistente) | privado |
+| Samuel Armas | [samuelarmastatto](https://github.com/Lepayimio/samuelarmastatto) | privado |
+| L-shorts | [l-shorts](https://github.com/Lepayimio/l-shorts) | privado |
+| RandomFact | [randomfact](https://github.com/pelayodesantiago98-ctrl/randomfact) | privado |
+| Infraestructura | [lepayimio-infra](https://github.com/Lepayimio/lepayimio-infra) | privado |
