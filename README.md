@@ -23,7 +23,6 @@ propio repositorio dentro de la organización
   - [L-tcg · cartas Pokémon](#l-tcg--cartas-pokémon)
   - [RandomFact · un dato al día](#randomfact--un-dato-al-día)
   - [Recetas](#recetas)
-  - [To do List](#to-do-list)
   - [GyMarks · gimnasio](#gymarks--gimnasio)
   - [L-archivos y L-films · subida y películas](#l-archivos-y-l-films--subida-y-películas)
   - [Descargas · L-torrents](#descargas--l-torrents)
@@ -141,14 +140,6 @@ por ingrediente.
 
 ![Recetas](capturas/l-recetas.png)
 
-### To do List
-
-**Repositorio: [l-list (privado)](https://github.com/Lepayimio/l-list)**
-
-`l-list.lepayimio.es` — listas de tareas con casillas, y un menú de la semana.
-
-![To do List](capturas/l-list.png)
-
 ### GyMarks · gimnasio
 
 **Repositorio: [l-gym](https://github.com/Lepayimio/l-gym)**
@@ -156,7 +147,11 @@ por ingrediente.
 `l-gym.lepayimio.es` — apunta rutinas por día y grupo muscular y mira cómo
 progresas con el tiempo.
 
-![GyMarks](capturas/l-gym.png)
+![GyMarks, progreso](capturas/l-gym-progreso.png)
+
+| Entreno | Rutinas | Móvil |
+|---|---|---|
+| ![](capturas/l-gym-entreno.png) | ![](capturas/l-gym-rutinas.png) | ![](capturas/l-gym-movil.png) |
 
 ### L-archivos y L-films · subida y películas
 
@@ -224,7 +219,6 @@ web es la misma cara que lleva el dispositivo.
 | L-archivos | [l-archivos](https://github.com/Lepayimio/l-archivos) | público |
 | L-films (buzón) | [l-films](https://github.com/Lepayimio/l-films) | público |
 | Descargas | [l-torrents](https://github.com/Lepayimio/l-torrents) | público |
-| To do List | [l-list](https://github.com/Lepayimio/l-list) | privado |
 | PomboMail | [pombomail](https://github.com/Lepayimio/pombomail) | privado |
 | Asistente | [asistente](https://github.com/Lepayimio/asistente) | privado |
 | Samuel Armas | [samuelarmastatto](https://github.com/Lepayimio/samuelarmastatto) | privado |
